@@ -11,7 +11,7 @@
 - 프로덕션 배포 준비가 되면 `dev` 브랜치에서 PR을 통해 `main` 브랜치로 **Merge Commit**으로 merge 합니다.
   - 이유: 배포 이력을 명확히 남기고 브랜치 간 그래프를 연결하기 위함
 
-3. 브랜치 컨벤션
+2. 브랜치 컨벤션
 
 - 형식: `태그/설명`
 - 태그: feat, fix, docs, chore, design, refactor, cicd
